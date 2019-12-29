@@ -1,0 +1,13 @@
+2019.03.31:
+* changed: merge with the latest library repository changes at release 1.8.1 commit #2fe3bd994b3189899d93f1d5a881e725e046fdc2 (2018.08.31) from https://github.com/google/googletest/releases
+* removed: binaries of previous version
+* added: binaries builded under msvc 2015 update 3
+
+2019.02.09:
+* refactor: minor rename
+
+2018.09.25:
+* new: changelog
+* new: initial patched sources fork
+* new: TestInfo::AddPrintResultPredicate, TestInfo::GetPrintResultPredicates functions and pridicates call from PrettyUnitTestResultPrinter::PrintFailedTests function
+* changed: windows libraries (.lib) is rebuilded, linux libraries (.a) are not rebuilded and must be rebuilded later
