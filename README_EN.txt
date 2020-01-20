@@ -1,10 +1,12 @@
 * README_EN.txt
-* 2018.03.31
+* 2020.01.20
 * googletest
 
 1. DESCRIPTION
 2. LICENSE
-3. AUTHOR EMAIL
+3. REPOSITORIES
+4. INSTALLATION
+5. AUTHOR EMAIL
 
 -------------------------------------------------------------------------------
 1. DESCRIPTION
@@ -12,26 +14,26 @@
 googletest patched sources fork from:
 https://github.com/google/googletest
 
-Based on version 1.8.1.
+Based on version 1.10.0.
 
 From authors:
 
-  We are working on a large refactoring that would make it hard to accept
-  external PRs. Really Soon Now we will not be accepting new PRs until the
-  refactoring has been completed.
+  Announcements:
+  Release 1.10.x
+  Release 1.10.x is now available.
 
-  Future Plans:
+  Coming Soon
+  * Post 1.10.x googletest will follow Abseil Live at Head philosophy
+  * We are also planning to take a dependency on Abseil.
 
-  * 1.8.x Release - the 1.8.x is the last release that works with pre-C++11
-    compilers. The 1.8.x will not accept any requests for any new features and
-    any bugfix requests will only be accepted if proven "critical"
-  * Post 1.8.x - work to improve/cleanup/pay technical debt. When this work is
-    completed there will be a 1.9.x tagged release
-  * Post 1.9.x googletest will follow `Abseil Live at Head philosophy`
+  Welcome to Google Test, Google's C++ test framework!
 
-  This repository is a merger of the formerly separate GoogleTest and
-  GoogleMock projects. These were so closely related that it makes sense to
-  maintain and release them together.
+  This repository is a merger of the formerly separate GoogleTest and GoogleMock
+  projects. These were so closely related that it makes sense to maintain and
+  release them together.
+
+  Please subscribe to the mailing list at googletestframework@googlegroups.com
+  for questions, discussions, and development.
 
   Features
     * An xUnit test framework.
@@ -60,15 +62,34 @@ From authors:
 The original library patched to fix these issues:
 
 1. Ability to add test case predicate functions to be called at print results
-   phase (currently only fail results printing has implemented).
+   phase (currently only fail results printing is implemented).
 
 -------------------------------------------------------------------------------
 2. LICENSE
 -------------------------------------------------------------------------------
-The MIT license (see included text file "license.txt" or
-https://github.com/google/googletest/blob/master/LICENSE ) 
+BSD 3-Clause "New" or "Revised" License
+(see included text file "license.txt" or
+https://github.com/google/googletest/blob/master/LICENSE )
 
 -------------------------------------------------------------------------------
-3. AUTHOR EMAIL
+3. REPOSITORIES
+-------------------------------------------------------------------------------
+Primary:
+  * https://sf.net/p/tacklelib/3dparty--googletest/HEAD/tree/trunk
+    https://svn.code.sf.net/p/tacklelib/3dparty--googletest/trunk
+First mirror:
+  * https://github.com/andry81/tacklelib--3dparty--googletest/tree/trunk
+    https://github.com/andry81/tacklelib--3dparty--googletest.git
+Second mirror:
+  * https://bitbucket.org/andry81/tacklelib-3dparty-googletest/src/trunk
+    https://bitbucket.org/andry81/tacklelib-3dparty-googletest.git
+
+-------------------------------------------------------------------------------
+4. INSTALLATION
+-------------------------------------------------------------------------------
+N/A
+
+-------------------------------------------------------------------------------
+5. AUTHOR EMAIL
 -------------------------------------------------------------------------------
 Andrey Dibrov (andry at inbox dot ru)
