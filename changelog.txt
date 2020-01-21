@@ -1,3 +1,6 @@
+2020.01.21:
+* changed: readme update
+
 2020.01.20:
 * changed: merge with the latest library repository changes at release 1.10.0 commit #703bd9caab50b139428cea1aaff9974ebee5742e (2019.10.03) from https://github.com/google/googletest/releases
 * changed: readme update
