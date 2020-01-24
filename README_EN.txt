@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.01.21
+* 2020.01.24
 * tacklelib--3dparty--googletest
 
 1. DESCRIPTION
@@ -13,8 +13,6 @@
 -------------------------------------------------------------------------------
 googletest patched sources fork from:
 https://github.com/google/googletest
-
-Based on version 1.10.0.
 
 From authors:
 
