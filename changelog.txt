@@ -1,3 +1,6 @@
+2020.01.30:
+* changed: changelog updated for more accurate links
+
 2020.01.24:
 * changed: cutted off the version reference from the readme file as may change frequently
 
@@ -5,11 +8,11 @@
 * changed: readme update
 
 2020.01.20:
-* changed: merge with the latest library repository changes at release 1.10.0 commit #703bd9caab50b139428cea1aaff9974ebee5742e (2019.10.03) from https://github.com/google/googletest/releases
+* changed: merge with the latest library repository changes at release 1.10.0 commit #703bd9caab50b139428cea1aaff9974ebee5742e (2019.10.03) from https://github.com/google/googletest/releases/tag/release-1.10.0 (https://github.com/google/googletest/commit/703bd9caab50b139428cea1aaff9974ebee5742e )
 * changed: readme update
 
 2019.03.31:
-* changed: merge with the latest library repository changes at release 1.8.1 commit #2fe3bd994b3189899d93f1d5a881e725e046fdc2 (2018.08.31) from https://github.com/google/googletest/releases
+* changed: merge with the latest library repository changes at release 1.8.1 commit #2fe3bd994b3189899d93f1d5a881e725e046fdc2 (2018.08.31) from https://github.com/google/googletest/releases/tag/release-1.8.1 (https://github.com/google/googletest/commit/2fe3bd994b3189899d93f1d5a881e725e046fdc2 )
 * removed: binaries of previous version
 * added: binaries builded under msvc 2015 update 3
 
