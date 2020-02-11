@@ -1,3 +1,6 @@
+2020.02.10:
+* changed: readme update
+
 2020.02.04:
 * new: added googlemock as a subdirectory as in the original repository
 * changed: moved googletest into nested `googletest` directory
