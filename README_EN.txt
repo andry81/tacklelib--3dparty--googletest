@@ -73,13 +73,13 @@ https://github.com/google/googletest/blob/master/LICENSE )
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--googletest/HEAD/tree/trunk
-    https://svn.code.sf.net/p/tacklelib/3dparty--googletest/trunk
+  * https://sf.net/p/tacklelib/3dparty--googletest/HEAD/tree/branches
+    https://svn.code.sf.net/p/tacklelib/3dparty--googletest/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--googletest/tree/trunk
+  * https://github.com/andry81/tacklelib--3dparty--googletest/tree/branches
     https://github.com/andry81/tacklelib--3dparty--googletest.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-googletest/src/trunk
+  * https://bitbucket.org/andry81/tacklelib-3dparty-googletest/src/branches
     https://bitbucket.org/andry81/tacklelib-3dparty-googletest.git
 
 -------------------------------------------------------------------------------
